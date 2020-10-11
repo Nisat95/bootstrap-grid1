@@ -1,0 +1,7 @@
+.custom{
+    border-radius:15px !important;
+}
+
+.custom:hover{
+    background-color:rgb(26, 168, 81);
+}
